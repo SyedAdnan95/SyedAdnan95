@@ -1,4 +1,4 @@
-## 🎯Hey there, I’m Adnan — glad you stopped by!
+## 🎯Hey there, I’m Syed Adnan Ahmed — glad you stopped by!
 
 I’m a Computer Science undergrad (2022–2026) who loves turning big ideas into real things that matter. As a GeeksforGeeks Campus Mantri and Youth Leader with Young Indians, I don’t just code — I lead, collaborate, and push for tech that makes a difference.
 

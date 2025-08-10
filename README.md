@@ -1,9 +1,8 @@
 # 🎯 Hey there, I’m Adnan — glad you stopped by!
 
-## I’m a Computer Science undergrad (2022–2026) with a knack for turning bold ideas into real-world solutions.
-## As a GeeksforGeeks Campus Mantri and Youth Leader at Young Indians, I thrive at the intersection of technology, leadership, and social impact.
+ I’m a Computer Science undergrad (2022–2026) with a knack for turning bold ideas into real-world solutions. As a GeeksforGeeks Campus Mantri and Youth Leader at Young Indians, I thrive at the intersection of technology, leadership, and social impact.
 
-💻 What you’ll find here:
+## 💻 What you’ll find here:
 
 🚀 Projects in Python, JavaScript, ML, and Cloud
 
@@ -11,7 +10,7 @@
 
 🌱 Tech-for-good initiatives that aim to make a difference
 
-🏆 A little about my journey so far:
+## 🏆 A little about my journey so far:
 
 12× Paper Presentation Winner across state and National events.
 
@@ -22,15 +21,14 @@ Led student communities & represented my college at national innovation forums.
 ✨ Fun fact: I believe technology is not just a tool — it’s a catalyst for change.
 Here on GitHub, you’ll see my experiments, my learning curve, and my small steps toward building something meaningful.
 
-So let’s code, collaborate, and create impact together 💻🤝
+### So let’s code, collaborate, and create impact together 💻🤝
 You bring the coffee, I’ll bring the commits ☕💻
 
-🌐 Socials:  
-━━━━━━━━━━━━━━  
+## 🌐 Socials:   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-adnan-ahmed-726b072a1) 
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
 ━━━━━━━━━━━━━━  
 

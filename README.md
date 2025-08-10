@@ -22,7 +22,7 @@ At the core, I believe leadership means serving others, and innovation means sol
 
 Built an AI-based disaster prediction model to improve early warning systems.
 
-Led student communities & represented my college at national innovation forums.
+Led student communities & represented my college at National Innovation forums.
 
 ✨ Fun fact: I believe technology is not just a tool — it’s a catalyst for change.
 Here on GitHub, you’ll see my experiments, my learning curve, and my small steps toward building something meaningful.

@@ -1,4 +1,4 @@
-# 🎯 Hey there, I’m Adnan — glad you stopped by!
+## 🎯Hey there, I’m Adnan — glad you stopped by!
 
 I’m a Computer Science undergrad (2022–2026) who loves turning big ideas into real things that matter. As a GeeksforGeeks Campus Mantri and Youth Leader with Young Indians, I don’t just code — I lead, collaborate, and push for tech that makes a difference.
 
@@ -10,11 +10,11 @@ At the core, I believe leadership means serving others, and innovation means sol
 
 ## 💻 What you’ll find here:
 
-🚀 Projects in Python, JavaScript, ML, and Cloud
+💻 Projects in web development, AI chatbots, machine learning, and cloud solutions.
 
-📊 Data-driven dashboards & smart tools
+📊 Data-driven dashboards & smart tools.
 
-🌱 Tech-for-good initiatives that aim to make a difference
+🌱 Tech-for-good initiatives that aim to make a difference.
 
 ## 🏆 A little about my journey so far:
 

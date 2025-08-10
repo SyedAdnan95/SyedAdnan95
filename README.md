@@ -18,7 +18,7 @@ At the core, I believe leadership means serving others, and innovation means sol
 
 ## 🏆 A little about my journey so far:
 
-12× Paper Presentation Winner across state and National events.
+12× Paper Presentation Winner across State and National events.
 
 Built an AI-based disaster prediction model to improve early warning systems.
 

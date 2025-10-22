@@ -1,10 +1,10 @@
 ## 🎯Hey there, I’m Syed Adnan Ahmed — glad you stopped by!
 
-I’m a Computer Science undergrad (2022–2026) who loves turning big ideas into real things that matter. As a GeeksforGeeks Campus Mantri and Youth Leader with Young Indians, I don’t just code — I lead, collaborate, and push for tech that makes a difference.
+I’m a Computer Science undergrad (2022–2026) who loves turning big ideas into real things that matter. As a GeeksforGeeks Campus Mantri and Youth Leader with Young Indians, I don’t just code, I also lead, collaborate and push for tech that makes a difference.
 
 I’ve learned that the best solutions come from teamwork, curiosity, and a bit of grit. Whether I’m building AI models to predict disasters or organizing student communities, I’m driven by the goal to create something meaningful, not just impressive.
 
-At the core, I believe leadership means serving others, and innovation means solving real challenges. So I’m here to keep learning, keep building, and keep making an impact — one project, one talk, and one connection at a time.
+At the core, I believe leadership means serving others, and innovation means solving real challenges. So I’m here to keep learning, keep building, and keep making an impact that is one project, one talk, and one connection at a time.
 
 ## 💻 What you’ll find here:
 

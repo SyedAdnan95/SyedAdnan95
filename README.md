@@ -22,12 +22,6 @@ Built an AI-based disaster prediction model to improve early warning systems.
 
 Led student communities & represented my college at National Innovation forums.
 
-✨ Fun fact: I believe technology is not just a tool — it’s a catalyst for change.
-Here on GitHub, you’ll see my experiments, my learning curve, and my small steps toward building something meaningful.
-
-### So let’s code, collaborate, and create impact together 💻🤝
-You bring the coffee, I’ll bring the commits ☕💻
-
 ### 🌐 Socials:   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-adnan-ahmed-726b072a1) 

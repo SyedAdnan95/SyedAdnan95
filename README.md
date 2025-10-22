@@ -4,8 +4,6 @@ I’m a Computer Science undergrad (2022–2026) who loves turning big ideas int
 
 I’ve learned that the best solutions come from teamwork, curiosity, and a bit of grit. Whether I’m building AI models to predict disasters or organizing student communities, I’m driven by the goal to create something meaningful, not just impressive.
 
-Technology for me is a way to solve problems and connect people — not just lines of code. I’m always chasing new skills, from machine learning to cloud, and I’m passionate about sharing what I learn to help others grow too.
-
 At the core, I believe leadership means serving others, and innovation means solving real challenges. So I’m here to keep learning, keep building, and keep making an impact — one project, one talk, and one connection at a time.
 
 ## 💻 What you’ll find here:
